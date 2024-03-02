@@ -54,7 +54,7 @@
   bottom: 0;
 }
 .statement{
-  font-size: 20px;
+  font-size: 18px;
   margin-left: 50px;
   margin-right: 50px;
   text-align: justify;
@@ -62,10 +62,11 @@
   height: 450px;
   color: #5e1662;
   padding-top: 50px;
+  box-sizing: border-box;
 }
 .statement p{
   text-align: justify;
-  width: 1300;
+  width: 750;
 }
 .about{
   background-color: aliceblue;
