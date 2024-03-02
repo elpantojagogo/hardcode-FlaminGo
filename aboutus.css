@@ -65,6 +65,7 @@
 }
 .statement p{
   text-align: justify;
+  width: auto;
 }
 .about{
   background-color: aliceblue;
