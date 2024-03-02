@@ -63,6 +63,10 @@
   color: #5e1662;
   padding-top: 50px;
 }
+.statement p{
+  text-align: justify;
+  width: auto;
+}
 .about{
   background-color: aliceblue;
   padding-bottom: 100px;
